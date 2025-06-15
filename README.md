@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=39&multiline=true&width=700&lines=Hello+I’m+Aarya!+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=39&multiline=true&width=700&lines=Hello+I’m+Aarya!+🤍)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGg0eG1pbHh6YTRrdzN3dXFqOHcyMWVuYXlubjVkYmlyejhyMGc2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"
     alt="Animated coder girl GIF"
-    width="80%" />
+    width="100%" />
 </p>
 
 <p align="center">
