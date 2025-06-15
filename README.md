@@ -1,6 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=39&multiline=true&width=700&lines=Hello+I’m+Aarya!+👋)](https://git.io/typing-svg)
 
-<a href="#"><img width="20%" align="right" src="https://github.com/arrysoni/arrysoni/blob/master/Assets/Developer.gif" alt="developer gif" /></a>
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGg0eG1pbHh6YTRrdzN3dXFqOHcyMWVuYXlubjVkYmlyejhyMGc2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"
+    alt="Animated coder girl GIF"
+    width="50%" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aaryasoni"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:aarya19204@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
+
+<!-- rest of your README content -->
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aaryasoni"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
