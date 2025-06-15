@@ -3,16 +3,8 @@
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGg0eG1pbHh6YTRrdzN3dXFqOHcyMWVuYXlubjVkYmlyejhyMGc2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"
     alt="Animated coder girl GIF"
-    width="50%" />
+    width="80%" />
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aaryasoni"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:aarya19204@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
-
-<!-- rest of your README content -->
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aaryasoni"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -20,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img width="60%" src="https://raw.githubusercontent.com/tanpatil/tanpatil/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake" />
+  <img width="100%" src="https://raw.githubusercontent.com/tanpatil/tanpatil/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake" />
 </p>
 
 ---
