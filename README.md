@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hello, I’m Aarya! 👋</h1>
 
-<!--
-**arrysoni/arrysoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>“I don’t do magic—but I <strong>do</strong> full‑stack.”</em><br>
+  <em>From front‑end spells to back‑end levitation.</em>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/aarya-soni/">
+    <img src="https://img.shields.io/badge/LinkedIn‑0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email‑D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <img src="https://github.com/aaryasoni/aaryasoni/raw/output/github-contribution-grid-snake.svg" alt="github contribution grid" />
+</p>
