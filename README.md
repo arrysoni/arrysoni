@@ -1,20 +1,26 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=39&multiline=true&width=700&lines=Hello+I’m+Aarya!+👋)](https://git.io/typing-svg)
+
+<a href="#"><img width="20%" align="right" src="https://github.com/arrysoni/arrysoni/blob/master/Assets/Developer.gif" alt="developer gif" /></a>
+
+<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aaryasoni"><img src="https://img.shields.io/badge/🔗-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:aarya19204@gmail.com"><img src="https://img.shields.io/badge/📧-Email-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github.com/arrysoni/arrysoni/raw/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake" />
+</p>
+
+---
+
 <h1 align="center">Hi, I’m Aarya! 👋</h1>
 
 <p align="center">
   <em>"I don’t do magic—but I <strong>do</strong> full‑stack."</em><br>
   <em>From front‑end spells to back‑end levitation.</em>
 </p>
-
-<p align="center">
-  <a href="mailto:aarya19204@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/aaryasoni"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
----
-
-### 🧠 About Me
-
-I build software across the stack—from C and Java performance engines to sleek JavaScript UIs. I also explore data with Streamlit, design with Bootstrap, and craft backend services. Passionate about elegant code and real-world impact.
 
 ---
 
@@ -31,7 +37,6 @@ I build software across the stack—from C and Java performance engines to sleek
 
 - 🔩 **[CPU Verilog Projects](https://github.com/arrysoni/CPU.git)**  
   Logic-level CPU digital design using Verilog for system-level modeling.
-
 
 ---
 
@@ -52,6 +57,7 @@ I build software across the stack—from C and Java performance engines to sleek
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
+
 ---
 
 ### 📊 GitHub Stats
@@ -59,13 +65,4 @@ I build software across the stack—from C and Java performance engines to sleek
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arrysoni&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arrysoni&theme=radical" width="48%" />
-</p>
-
----
-
-### 🐍 Contribution Grid Snake
-
-```md
-<p align="center">
-  <img src="https://github.com/arrysoni/arrysoni/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
