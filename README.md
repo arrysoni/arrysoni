@@ -11,10 +11,6 @@
   <a href="mailto:aarya19204@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/tanpatil/tanpatil/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake" />
-</p>
-
 ---
 
 <p align="center">
@@ -55,6 +51,21 @@
 </p>
 
 ---
+
+## 👩‍💻 About Me
+
+Hey there! I’m **Aarya** — studying Computer Science with an Economics minor at Penn State. I love diving into code and building things that matter.
+
+This summer, I’m a **Software Engineering Intern at Aerolens**, exploring aerial intelligence through AI and computer vision. I’m always excited to experiment with new tech and see how far I can push real-world systems.
+
+When I'm not coding, I’m probably mentoring friends on hackathon projects, geeking out over optimization tricks, or brainstorming ideas to make tech more user-friendly. I’ve also developed strong teamwork skills running through academic projects and student clubs.
+
+Proud member of **Tau Beta Pi** — I believe in learning continuously, working with integrity, and supporting each other. I’m grateful to everyone who’s helped me grow so far!
+
+I enjoy chatting about anything from software engineering and AI to creative side-projects—so drop a line anytime! 😊
+
+---
+
 
 ### 📊 GitHub Stats
 
