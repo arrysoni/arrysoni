@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="195" viewBox="0 0 300 195">
+  <style>
+    .blink { transform-origin: 150px 66px; animation: blink 4s infinite; }
+    @keyframes blink { 0%, 92%, 100% { transform: scaleY(1); } 95% { transform: scaleY(0.1); } }
+
+    .tail { transform-origin: 178px 96px; animation: swish 0.6s ease-in-out infinite; }
+    @keyframes swish { 0%, 100% { transform: rotate(0deg); } 50% { transform: rotate(-18deg); } }
+
+    .earL { transform-origin: 128px 54px; animation: flopL 3s ease-in-out infinite; }
+    .earR { transform-origin: 172px 54px; animation: flopR 3s ease-in-out infinite; }
+    @keyframes flopL { 0%, 100% { transform: rotate(0deg); } 50% { transform: rotate(6deg); } }
+    @keyframes flopR { 0%, 100% { transform: rotate(0deg); } 50% { transform: rotate(-6deg); } }
+
+    .steam { animation: rise 3s ease-in-out infinite; opacity: 0; }
+    .s2 { animation-delay: 1s; }
+    .s3 { animation-delay: 2s; }
+    @keyframes rise { 0% { opacity: 0; transform: translateY(6px); } 40% { opacity: .8; } 100% { opacity: 0; transform: translateY(-14px); } }
+
+    .code { transform-box: fill-box; transform-origin: left; animation: type 3.6s steps(6) infinite; }
+    .c2 { animation-delay: .6s; }
+    .c3 { animation-delay: 1.2s; }
+    .c4 { animation-delay: 1.8s; }
+    @keyframes type { 0% { transform: scaleX(0); } 50%, 85% { transform: scaleX(1); } 100% { transform: scaleX(0); } }
+
+    .twinkle { animation: twinkle 2s ease-in-out infinite; }
+    .t2 { animation-delay: .7s; }
+    .t3 { animation-delay: 1.4s; }
+    @keyframes twinkle { 0%, 100% { opacity: .2; } 50% { opacity: 1; } }
+
+    text { font-family: 'Segoe UI', Ubuntu, sans-serif; }
+  </style>
+
+  <!-- card, matching the streak card's "radical" theme -->
+  <rect x="0.5" y="0.5" width="299" height="194" rx="4.5" fill="#141321" stroke="#e4e2e2"/>
+
+  <!-- sparkles -->
+  <g fill="#f8d847">
+    <path class="twinkle" d="M40 30 l2 5 5 2 -5 2 -2 5 -2 -5 -5 -2 5 -2z"/>
+    <path class="twinkle t2" d="M255 40 l1.5 4 4 1.5 -4 1.5 -1.5 4 -1.5 -4 -4 -1.5 4 -1.5z"/>
+    <path class="twinkle t3" d="M235 120 l1.5 4 4 1.5 -4 1.5 -1.5 4 -1.5 -4 -4 -1.5 4 -1.5z"/>
+  </g>
+
+  <!-- wagging tail (behind pup) -->
+  <path class="tail" d="M176 98 C 200 96, 210 80, 204 62" fill="none" stroke="#f2c48d" stroke-width="8" stroke-linecap="round"/>
+
+  <!-- pup head -->
+  <ellipse cx="150" cy="70" rx="29" ry="27" fill="#f2c48d"/>
+  <!-- floppy ears -->
+  <path class="earL" d="M126 52 C 110 52, 106 78, 116 88 C 124 84, 128 70, 130 58 Z" fill="#c98a52"/>
+  <path class="earR" d="M174 52 C 190 52, 194 78, 184 88 C 176 84, 172 70, 170 58 Z" fill="#c98a52"/>
+  <!-- eye patch -->
+  <ellipse cx="161" cy="66" rx="8" ry="7.5" fill="#c98a52" opacity=".7"/>
+
+  <!-- face -->
+  <g class="blink">
+    <ellipse cx="140" cy="66" rx="3.4" ry="4.3" fill="#141321"/>
+    <ellipse cx="161" cy="66" rx="3.4" ry="4.3" fill="#141321"/>
+  </g>
+  <circle cx="141.2" cy="64.5" r="1.1" fill="#fff"/>
+  <circle cx="162.2" cy="64.5" r="1.1" fill="#fff"/>
+  <ellipse cx="150" cy="80" rx="12" ry="9" fill="#fbe3c4"/>
+  <ellipse cx="150" cy="76" rx="4.5" ry="3.2" fill="#141321"/>
+  <path d="M150 79 v3 M150 82 q-4 3 -7 0 M150 82 q4 3 7 0" fill="none" stroke="#141321" stroke-width="1.4" stroke-linecap="round"/>
+  <path class="tongue" d="M147 84 h6 v4 a3 3 0 0 1 -6 0 Z" fill="#fe428e"/>
+  <ellipse cx="131" cy="77" rx="4.5" ry="2.6" fill="#fe428e" opacity=".45"/>
+  <ellipse cx="169" cy="77" rx="4.5" ry="2.6" fill="#fe428e" opacity=".45"/>
+
+  <!-- laptop (back of screen faces us, code glow on the lid) -->
+  <rect x="104" y="88" width="92" height="58" rx="5" fill="#2b2a40" stroke="#4b4970"/>
+  <g>
+    <rect class="code" x="114" y="100" width="40" height="4" rx="2" fill="#fe428e"/>
+    <rect class="code c2" x="122" y="110" width="52" height="4" rx="2" fill="#a9fef7"/>
+    <rect class="code c3" x="122" y="120" width="30" height="4" rx="2" fill="#f8d847"/>
+    <rect class="code c4" x="114" y="130" width="46" height="4" rx="2" fill="#a9fef7"/>
+  </g>
+  <path d="M92 146 H208 L200 155 H100 Z" fill="#4b4970"/>
+
+  <!-- paws on the laptop -->
+  <ellipse cx="132" cy="89" rx="8" ry="5" fill="#f2c48d"/>
+  <ellipse cx="168" cy="89" rx="8" ry="5" fill="#f2c48d"/>
+
+  <!-- coffee mug + steam -->
+  <rect x="50" y="122" width="26" height="30" rx="4" fill="#fe428e"/>
+  <path d="M76 128 q11 0 11 9 q0 9 -11 9" fill="none" stroke="#fe428e" stroke-width="4"/>
+  <rect x="50" y="122" width="26" height="5" rx="2" fill="#ff7aac"/>
+  <g fill="none" stroke="#a9fef7" stroke-width="2" stroke-linecap="round">
+    <path class="steam" d="M57 116 q-4 -6 0 -12"/>
+    <path class="steam s2" d="M63 116 q4 -6 0 -12"/>
+    <path class="steam s3" d="M69 116 q-4 -6 0 -12"/>
+  </g>
+
+  <text x="150" y="179" text-anchor="middle" font-size="14" font-weight="600" fill="#a9fef7">coffee · code · commit</text>
+</svg>
