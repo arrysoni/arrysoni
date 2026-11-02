@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-  <i>"I don’t do magic but I <b>do</b> full-stack."</i><br/>
+  <i>"I don’t do magic—but I <b>do</b> full-stack."</i><br/>
   <i>From front-end spells to back-end levitation.</i>
 </p>
 
@@ -79,12 +79,6 @@ Always happy to chat about backend systems, ML, fintech, or side projects, so fe
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=arrysoni&theme=radical&timezone=America/Los_Angeles" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arrysoni/arrysoni/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/arrysoni/arrysoni/output/github-contribution-grid-snake.svg" alt="Snake eating my contribution graph" />
-  </picture>
+  <img src="https://streak-stats.demolab.com?user=arrysoni&theme=radical&timezone=America/Los_Angeles" alt="GitHub streak" height="195" />
+  <img src="cozy-pup.svg" alt="A pup coding next to a cup of coffee" height="195" />
 </p>
