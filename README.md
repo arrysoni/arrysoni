@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-  <i>"I don’t do magic—but I <b>do</b> full-stack."</i><br/>
+  <i>"I don’t do magic but I <b>do</b> full-stack."</i><br/>
   <i>From front-end spells to back-end levitation.</i>
 </p>
 
